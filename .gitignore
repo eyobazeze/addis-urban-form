@@ -1,0 +1,7 @@
+data/
+outputs/
+cache/
+.vscode/
+__pycache__/
+*.pyc
+*.graphml
